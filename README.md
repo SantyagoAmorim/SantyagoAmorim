@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm a developer focused on automation and data.<br>
+# 👋 About Me:
+I'm a backend developer passionate about building scalable systems and automating everything I can. I work mainly with Java and Python, love tinkering with databases, and run Manjaro because life's too short for boring distros.<br>
 
 
 ## 🌐 Socials:
